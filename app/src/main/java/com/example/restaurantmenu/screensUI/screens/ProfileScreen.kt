@@ -22,7 +22,7 @@ fun ProfileScreen(modifier: Modifier = Modifier) {
         Spacer(modifier = Modifier.height(8.dp))
 
         Text(
-            text = "User info will go here"
+            text = "User info will go here and here"
         )
     }
 }
